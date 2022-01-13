@@ -1,0 +1,1 @@
+fn generate_password(phrase)
