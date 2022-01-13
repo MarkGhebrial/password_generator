@@ -1,5 +1,6 @@
-/home/runner/passwordgenerator/target/debug/deps/my_project-81ddfb6feecf7d39: src/main.rs
+/home/runner/passwordgenerator/target/debug/deps/my_project-81ddfb6feecf7d39: src/main.rs src/password_generator.rs
 
-/home/runner/passwordgenerator/target/debug/deps/my_project-81ddfb6feecf7d39.d: src/main.rs
+/home/runner/passwordgenerator/target/debug/deps/my_project-81ddfb6feecf7d39.d: src/main.rs src/password_generator.rs
 
 src/main.rs:
+src/password_generator.rs:
